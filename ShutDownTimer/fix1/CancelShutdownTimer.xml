@@ -1,0 +1,24 @@
+<Extensions>
+  <Version>1.5</Version>
+  <Panel>
+    <PanelId>panel_cancel_timer</PanelId>
+    <Type>Button</Type>
+    <Icon>Alarm</Icon>
+    <Order>5</Order>
+    <Color>#FF0000</Color>
+    <Name>Cancel Timer</Name>
+    <Page>
+      <Name>Cancel Timer</Name>
+      <Row>
+        <Name>Cancel the shutdown timer</Name>
+        <Widget>
+          <WidgetId>cancel_timer</WidgetId>
+          <Type>Button</Type>
+          <Options>size=4</Options>
+          <Name>Cancel Shutdown Timer</Name>
+        </Widget>
+      </Row>
+      <Options/>
+    </Page>
+  </Panel>
+</Extensions>
