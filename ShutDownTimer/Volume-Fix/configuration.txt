@@ -1,0 +1,1273 @@
+Apps WallpaperBundles HalfwakeImage: Auto
+Audio DefaultVolume: 50
+Audio Input Ethernet 1 Channel 1 Gain: 45
+Audio Input Ethernet 1 Channel 1 Mode: On
+Audio Input Ethernet 1 Channel 1 Pan: Mono
+Audio Input Ethernet 1 Channel 1 Zone: 1
+Audio Input Ethernet 1 Channel 2 Gain: 45
+Audio Input Ethernet 1 Channel 2 Mode: On
+Audio Input Ethernet 1 Channel 2 Pan: Mono
+Audio Input Ethernet 1 Channel 2 Zone: 1
+Audio Input Ethernet 1 Channel 3 Gain: 45
+Audio Input Ethernet 1 Channel 3 Mode: On
+Audio Input Ethernet 1 Channel 3 Pan: Mono
+Audio Input Ethernet 1 Channel 3 Zone: 1
+Audio Input Ethernet 1 Channel 4 Gain: 45
+Audio Input Ethernet 1 Channel 4 Mode: On
+Audio Input Ethernet 1 Channel 4 Pan: Mono
+Audio Input Ethernet 1 Channel 4 Zone: 1
+Audio Input Ethernet 1 Channel 5 Gain: 45
+Audio Input Ethernet 1 Channel 5 Mode: On
+Audio Input Ethernet 1 Channel 5 Pan: Mono
+Audio Input Ethernet 1 Channel 5 Zone: 1
+Audio Input Ethernet 1 Channel 6 Gain: 45
+Audio Input Ethernet 1 Channel 6 Mode: On
+Audio Input Ethernet 1 Channel 6 Pan: Mono
+Audio Input Ethernet 1 Channel 6 Zone: 1
+Audio Input Ethernet 1 Channel 7 Gain: 45
+Audio Input Ethernet 1 Channel 7 Mode: On
+Audio Input Ethernet 1 Channel 7 Pan: Mono
+Audio Input Ethernet 1 Channel 7 Zone: 1
+Audio Input Ethernet 1 Channel 8 Gain: 45
+Audio Input Ethernet 1 Channel 8 Mode: On
+Audio Input Ethernet 1 Channel 8 Pan: Mono
+Audio Input Ethernet 1 Channel 8 Zone: 1
+Audio Input Ethernet 1 EchoControl Mode: On
+Audio Input Ethernet 1 EchoControl NoiseReduction: On
+Audio Input Ethernet 1 Equalizer ID: 1
+Audio Input Ethernet 1 Equalizer Mode: Off
+Audio Input Ethernet 1 Mode: On
+Audio Input Ethernet 2 Channel 1 Gain: 45
+Audio Input Ethernet 2 Channel 1 Mode: On
+Audio Input Ethernet 2 Channel 1 Pan: Mono
+Audio Input Ethernet 2 Channel 1 Zone: 1
+Audio Input Ethernet 2 Channel 2 Gain: 45
+Audio Input Ethernet 2 Channel 2 Mode: On
+Audio Input Ethernet 2 Channel 2 Pan: Mono
+Audio Input Ethernet 2 Channel 2 Zone: 1
+Audio Input Ethernet 2 Channel 3 Gain: 45
+Audio Input Ethernet 2 Channel 3 Mode: On
+Audio Input Ethernet 2 Channel 3 Pan: Mono
+Audio Input Ethernet 2 Channel 3 Zone: 1
+Audio Input Ethernet 2 Channel 4 Gain: 45
+Audio Input Ethernet 2 Channel 4 Mode: On
+Audio Input Ethernet 2 Channel 4 Pan: Mono
+Audio Input Ethernet 2 Channel 4 Zone: 1
+Audio Input Ethernet 2 Channel 5 Gain: 45
+Audio Input Ethernet 2 Channel 5 Mode: On
+Audio Input Ethernet 2 Channel 5 Pan: Mono
+Audio Input Ethernet 2 Channel 5 Zone: 1
+Audio Input Ethernet 2 Channel 6 Gain: 45
+Audio Input Ethernet 2 Channel 6 Mode: On
+Audio Input Ethernet 2 Channel 6 Pan: Mono
+Audio Input Ethernet 2 Channel 6 Zone: 1
+Audio Input Ethernet 2 Channel 7 Gain: 45
+Audio Input Ethernet 2 Channel 7 Mode: On
+Audio Input Ethernet 2 Channel 7 Pan: Mono
+Audio Input Ethernet 2 Channel 7 Zone: 1
+Audio Input Ethernet 2 Channel 8 Gain: 45
+Audio Input Ethernet 2 Channel 8 Mode: On
+Audio Input Ethernet 2 Channel 8 Pan: Mono
+Audio Input Ethernet 2 Channel 8 Zone: 1
+Audio Input Ethernet 2 EchoControl Mode: On
+Audio Input Ethernet 2 EchoControl NoiseReduction: On
+Audio Input Ethernet 2 Equalizer ID: 1
+Audio Input Ethernet 2 Equalizer Mode: Off
+Audio Input Ethernet 2 Mode: On
+Audio Input Ethernet 3 Channel 1 Gain: 45
+Audio Input Ethernet 3 Channel 1 Mode: On
+Audio Input Ethernet 3 Channel 1 Pan: Mono
+Audio Input Ethernet 3 Channel 1 Zone: 1
+Audio Input Ethernet 3 Channel 2 Gain: 45
+Audio Input Ethernet 3 Channel 2 Mode: On
+Audio Input Ethernet 3 Channel 2 Pan: Mono
+Audio Input Ethernet 3 Channel 2 Zone: 1
+Audio Input Ethernet 3 Channel 3 Gain: 45
+Audio Input Ethernet 3 Channel 3 Mode: On
+Audio Input Ethernet 3 Channel 3 Pan: Mono
+Audio Input Ethernet 3 Channel 3 Zone: 1
+Audio Input Ethernet 3 Channel 4 Gain: 45
+Audio Input Ethernet 3 Channel 4 Mode: On
+Audio Input Ethernet 3 Channel 4 Pan: Mono
+Audio Input Ethernet 3 Channel 4 Zone: 1
+Audio Input Ethernet 3 Channel 5 Gain: 45
+Audio Input Ethernet 3 Channel 5 Mode: On
+Audio Input Ethernet 3 Channel 5 Pan: Mono
+Audio Input Ethernet 3 Channel 5 Zone: 1
+Audio Input Ethernet 3 Channel 6 Gain: 45
+Audio Input Ethernet 3 Channel 6 Mode: On
+Audio Input Ethernet 3 Channel 6 Pan: Mono
+Audio Input Ethernet 3 Channel 6 Zone: 1
+Audio Input Ethernet 3 Channel 7 Gain: 45
+Audio Input Ethernet 3 Channel 7 Mode: On
+Audio Input Ethernet 3 Channel 7 Pan: Mono
+Audio Input Ethernet 3 Channel 7 Zone: 1
+Audio Input Ethernet 3 Channel 8 Gain: 45
+Audio Input Ethernet 3 Channel 8 Mode: On
+Audio Input Ethernet 3 Channel 8 Pan: Mono
+Audio Input Ethernet 3 Channel 8 Zone: 1
+Audio Input Ethernet 3 EchoControl Mode: On
+Audio Input Ethernet 3 EchoControl NoiseReduction: On
+Audio Input Ethernet 3 Equalizer ID: 1
+Audio Input Ethernet 3 Equalizer Mode: Off
+Audio Input Ethernet 3 Mode: On
+Audio Input Ethernet 4 Channel 1 Gain: 45
+Audio Input Ethernet 4 Channel 1 Mode: On
+Audio Input Ethernet 4 Channel 1 Pan: Mono
+Audio Input Ethernet 4 Channel 1 Zone: 1
+Audio Input Ethernet 4 Channel 2 Gain: 45
+Audio Input Ethernet 4 Channel 2 Mode: On
+Audio Input Ethernet 4 Channel 2 Pan: Mono
+Audio Input Ethernet 4 Channel 2 Zone: 1
+Audio Input Ethernet 4 Channel 3 Gain: 45
+Audio Input Ethernet 4 Channel 3 Mode: On
+Audio Input Ethernet 4 Channel 3 Pan: Mono
+Audio Input Ethernet 4 Channel 3 Zone: 1
+Audio Input Ethernet 4 Channel 4 Gain: 45
+Audio Input Ethernet 4 Channel 4 Mode: On
+Audio Input Ethernet 4 Channel 4 Pan: Mono
+Audio Input Ethernet 4 Channel 4 Zone: 1
+Audio Input Ethernet 4 Channel 5 Gain: 45
+Audio Input Ethernet 4 Channel 5 Mode: On
+Audio Input Ethernet 4 Channel 5 Pan: Mono
+Audio Input Ethernet 4 Channel 5 Zone: 1
+Audio Input Ethernet 4 Channel 6 Gain: 45
+Audio Input Ethernet 4 Channel 6 Mode: On
+Audio Input Ethernet 4 Channel 6 Pan: Mono
+Audio Input Ethernet 4 Channel 6 Zone: 1
+Audio Input Ethernet 4 Channel 7 Gain: 45
+Audio Input Ethernet 4 Channel 7 Mode: On
+Audio Input Ethernet 4 Channel 7 Pan: Mono
+Audio Input Ethernet 4 Channel 7 Zone: 1
+Audio Input Ethernet 4 Channel 8 Gain: 45
+Audio Input Ethernet 4 Channel 8 Mode: On
+Audio Input Ethernet 4 Channel 8 Pan: Mono
+Audio Input Ethernet 4 Channel 8 Zone: 1
+Audio Input Ethernet 4 EchoControl Mode: On
+Audio Input Ethernet 4 EchoControl NoiseReduction: On
+Audio Input Ethernet 4 Equalizer ID: 1
+Audio Input Ethernet 4 Equalizer Mode: Off
+Audio Input Ethernet 4 Mode: On
+Audio Input Ethernet 5 Channel 1 Gain: 45
+Audio Input Ethernet 5 Channel 1 Mode: On
+Audio Input Ethernet 5 Channel 1 Pan: Mono
+Audio Input Ethernet 5 Channel 1 Zone: 1
+Audio Input Ethernet 5 Channel 2 Gain: 45
+Audio Input Ethernet 5 Channel 2 Mode: On
+Audio Input Ethernet 5 Channel 2 Pan: Mono
+Audio Input Ethernet 5 Channel 2 Zone: 1
+Audio Input Ethernet 5 Channel 3 Gain: 45
+Audio Input Ethernet 5 Channel 3 Mode: On
+Audio Input Ethernet 5 Channel 3 Pan: Mono
+Audio Input Ethernet 5 Channel 3 Zone: 1
+Audio Input Ethernet 5 Channel 4 Gain: 45
+Audio Input Ethernet 5 Channel 4 Mode: On
+Audio Input Ethernet 5 Channel 4 Pan: Mono
+Audio Input Ethernet 5 Channel 4 Zone: 1
+Audio Input Ethernet 5 Channel 5 Gain: 45
+Audio Input Ethernet 5 Channel 5 Mode: On
+Audio Input Ethernet 5 Channel 5 Pan: Mono
+Audio Input Ethernet 5 Channel 5 Zone: 1
+Audio Input Ethernet 5 Channel 6 Gain: 45
+Audio Input Ethernet 5 Channel 6 Mode: On
+Audio Input Ethernet 5 Channel 6 Pan: Mono
+Audio Input Ethernet 5 Channel 6 Zone: 1
+Audio Input Ethernet 5 Channel 7 Gain: 45
+Audio Input Ethernet 5 Channel 7 Mode: On
+Audio Input Ethernet 5 Channel 7 Pan: Mono
+Audio Input Ethernet 5 Channel 7 Zone: 1
+Audio Input Ethernet 5 Channel 8 Gain: 45
+Audio Input Ethernet 5 Channel 8 Mode: On
+Audio Input Ethernet 5 Channel 8 Pan: Mono
+Audio Input Ethernet 5 Channel 8 Zone: 1
+Audio Input Ethernet 5 EchoControl Mode: On
+Audio Input Ethernet 5 EchoControl NoiseReduction: On
+Audio Input Ethernet 5 Equalizer ID: 1
+Audio Input Ethernet 5 Equalizer Mode: Off
+Audio Input Ethernet 5 Mode: On
+Audio Input Ethernet 6 Channel 1 Gain: 45
+Audio Input Ethernet 6 Channel 1 Mode: On
+Audio Input Ethernet 6 Channel 1 Pan: Mono
+Audio Input Ethernet 6 Channel 1 Zone: 1
+Audio Input Ethernet 6 Channel 2 Gain: 45
+Audio Input Ethernet 6 Channel 2 Mode: On
+Audio Input Ethernet 6 Channel 2 Pan: Mono
+Audio Input Ethernet 6 Channel 2 Zone: 1
+Audio Input Ethernet 6 Channel 3 Gain: 45
+Audio Input Ethernet 6 Channel 3 Mode: On
+Audio Input Ethernet 6 Channel 3 Pan: Mono
+Audio Input Ethernet 6 Channel 3 Zone: 1
+Audio Input Ethernet 6 Channel 4 Gain: 45
+Audio Input Ethernet 6 Channel 4 Mode: On
+Audio Input Ethernet 6 Channel 4 Pan: Mono
+Audio Input Ethernet 6 Channel 4 Zone: 1
+Audio Input Ethernet 6 Channel 5 Gain: 45
+Audio Input Ethernet 6 Channel 5 Mode: On
+Audio Input Ethernet 6 Channel 5 Pan: Mono
+Audio Input Ethernet 6 Channel 5 Zone: 1
+Audio Input Ethernet 6 Channel 6 Gain: 45
+Audio Input Ethernet 6 Channel 6 Mode: On
+Audio Input Ethernet 6 Channel 6 Pan: Mono
+Audio Input Ethernet 6 Channel 6 Zone: 1
+Audio Input Ethernet 6 Channel 7 Gain: 45
+Audio Input Ethernet 6 Channel 7 Mode: On
+Audio Input Ethernet 6 Channel 7 Pan: Mono
+Audio Input Ethernet 6 Channel 7 Zone: 1
+Audio Input Ethernet 6 Channel 8 Gain: 45
+Audio Input Ethernet 6 Channel 8 Mode: On
+Audio Input Ethernet 6 Channel 8 Pan: Mono
+Audio Input Ethernet 6 Channel 8 Zone: 1
+Audio Input Ethernet 6 EchoControl Mode: On
+Audio Input Ethernet 6 EchoControl NoiseReduction: On
+Audio Input Ethernet 6 Equalizer ID: 1
+Audio Input Ethernet 6 Equalizer Mode: Off
+Audio Input Ethernet 6 Mode: On
+Audio Input Ethernet 7 Channel 1 Gain: 45
+Audio Input Ethernet 7 Channel 1 Mode: On
+Audio Input Ethernet 7 Channel 1 Pan: Mono
+Audio Input Ethernet 7 Channel 1 Zone: 1
+Audio Input Ethernet 7 Channel 2 Gain: 45
+Audio Input Ethernet 7 Channel 2 Mode: On
+Audio Input Ethernet 7 Channel 2 Pan: Mono
+Audio Input Ethernet 7 Channel 2 Zone: 1
+Audio Input Ethernet 7 Channel 3 Gain: 45
+Audio Input Ethernet 7 Channel 3 Mode: On
+Audio Input Ethernet 7 Channel 3 Pan: Mono
+Audio Input Ethernet 7 Channel 3 Zone: 1
+Audio Input Ethernet 7 Channel 4 Gain: 45
+Audio Input Ethernet 7 Channel 4 Mode: On
+Audio Input Ethernet 7 Channel 4 Pan: Mono
+Audio Input Ethernet 7 Channel 4 Zone: 1
+Audio Input Ethernet 7 Channel 5 Gain: 45
+Audio Input Ethernet 7 Channel 5 Mode: On
+Audio Input Ethernet 7 Channel 5 Pan: Mono
+Audio Input Ethernet 7 Channel 5 Zone: 1
+Audio Input Ethernet 7 Channel 6 Gain: 45
+Audio Input Ethernet 7 Channel 6 Mode: On
+Audio Input Ethernet 7 Channel 6 Pan: Mono
+Audio Input Ethernet 7 Channel 6 Zone: 1
+Audio Input Ethernet 7 Channel 7 Gain: 45
+Audio Input Ethernet 7 Channel 7 Mode: On
+Audio Input Ethernet 7 Channel 7 Pan: Mono
+Audio Input Ethernet 7 Channel 7 Zone: 1
+Audio Input Ethernet 7 Channel 8 Gain: 45
+Audio Input Ethernet 7 Channel 8 Mode: On
+Audio Input Ethernet 7 Channel 8 Pan: Mono
+Audio Input Ethernet 7 Channel 8 Zone: 1
+Audio Input Ethernet 7 EchoControl Mode: On
+Audio Input Ethernet 7 EchoControl NoiseReduction: On
+Audio Input Ethernet 7 Equalizer ID: 1
+Audio Input Ethernet 7 Equalizer Mode: Off
+Audio Input Ethernet 7 Mode: On
+Audio Input Ethernet 8 Channel 1 Gain: 45
+Audio Input Ethernet 8 Channel 1 Mode: On
+Audio Input Ethernet 8 Channel 1 Pan: Mono
+Audio Input Ethernet 8 Channel 1 Zone: 1
+Audio Input Ethernet 8 Channel 2 Gain: 45
+Audio Input Ethernet 8 Channel 2 Mode: On
+Audio Input Ethernet 8 Channel 2 Pan: Mono
+Audio Input Ethernet 8 Channel 2 Zone: 1
+Audio Input Ethernet 8 Channel 3 Gain: 45
+Audio Input Ethernet 8 Channel 3 Mode: On
+Audio Input Ethernet 8 Channel 3 Pan: Mono
+Audio Input Ethernet 8 Channel 3 Zone: 1
+Audio Input Ethernet 8 Channel 4 Gain: 45
+Audio Input Ethernet 8 Channel 4 Mode: On
+Audio Input Ethernet 8 Channel 4 Pan: Mono
+Audio Input Ethernet 8 Channel 4 Zone: 1
+Audio Input Ethernet 8 Channel 5 Gain: 45
+Audio Input Ethernet 8 Channel 5 Mode: On
+Audio Input Ethernet 8 Channel 5 Pan: Mono
+Audio Input Ethernet 8 Channel 5 Zone: 1
+Audio Input Ethernet 8 Channel 6 Gain: 45
+Audio Input Ethernet 8 Channel 6 Mode: On
+Audio Input Ethernet 8 Channel 6 Pan: Mono
+Audio Input Ethernet 8 Channel 6 Zone: 1
+Audio Input Ethernet 8 Channel 7 Gain: 45
+Audio Input Ethernet 8 Channel 7 Mode: On
+Audio Input Ethernet 8 Channel 7 Pan: Mono
+Audio Input Ethernet 8 Channel 7 Zone: 1
+Audio Input Ethernet 8 Channel 8 Gain: 45
+Audio Input Ethernet 8 Channel 8 Mode: On
+Audio Input Ethernet 8 Channel 8 Pan: Mono
+Audio Input Ethernet 8 Channel 8 Zone: 1
+Audio Input Ethernet 8 EchoControl Mode: On
+Audio Input Ethernet 8 EchoControl NoiseReduction: On
+Audio Input Ethernet 8 Equalizer ID: 1
+Audio Input Ethernet 8 Equalizer Mode: Off
+Audio Input Ethernet 8 Mode: On
+Audio Input HDMI 1 Gain: -5
+Audio Input HDMI 1 Mode: On
+Audio Input HDMI 1 VideoAssociation MuteOnInactiveVideo: Off
+Audio Input HDMI 2 Gain: -5
+Audio Input HDMI 2 Mode: On
+Audio Input HDMI 2 VideoAssociation MuteOnInactiveVideo: On
+Audio Input HDMI 3 Gain: -5
+Audio Input HDMI 3 Mode: On
+Audio Input HDMI 3 VideoAssociation MuteOnInactiveVideo: On
+Audio Input Microphone 1 EchoControl Dereverberation: Off
+Audio Input Microphone 1 EchoControl Mode: On
+Audio Input Microphone 1 EchoControl NoiseReduction: On
+Audio Input Microphone 1 Equalizer ID: 1
+Audio Input Microphone 1 Equalizer Mode: Off
+Audio Input Microphone 1 Gain: 20
+Audio Input Microphone 1 Mode: On
+Audio Input Microphone 1 Pan: Mono
+Audio Input Microphone 1 VideoAssociation MuteOnInactiveVideo: Off
+Audio Input Microphone 1 VideoAssociation VideoInputSource: 1
+Audio Input Microphone 1 Zone: 1
+Audio Input Microphone 2 EchoControl Dereverberation: Off
+Audio Input Microphone 2 EchoControl Mode: On
+Audio Input Microphone 2 EchoControl NoiseReduction: On
+Audio Input Microphone 2 Equalizer ID: 1
+Audio Input Microphone 2 Equalizer Mode: Off
+Audio Input Microphone 2 Gain: 20
+Audio Input Microphone 2 Mode: On
+Audio Input Microphone 2 Pan: Mono
+Audio Input Microphone 2 VideoAssociation MuteOnInactiveVideo: Off
+Audio Input Microphone 2 VideoAssociation VideoInputSource: 1
+Audio Input Microphone 2 Zone: 1
+Audio Input Microphone 3 EchoControl Dereverberation: Off
+Audio Input Microphone 3 EchoControl Mode: On
+Audio Input Microphone 3 EchoControl NoiseReduction: On
+Audio Input Microphone 3 Equalizer ID: 1
+Audio Input Microphone 3 Equalizer Mode: Off
+Audio Input Microphone 3 Gain: 20
+Audio Input Microphone 3 Mode: On
+Audio Input Microphone 3 Pan: Mono
+Audio Input Microphone 3 VideoAssociation MuteOnInactiveVideo: Off
+Audio Input Microphone 3 VideoAssociation VideoInputSource: 1
+Audio Input Microphone 3 Zone: 1
+Audio Input USBC 1 Gain: -5
+Audio Input USBC 1 Mode: On
+Audio Input USBC 1 VideoAssociation MuteOnInactiveVideo: On
+Audio Input USBInterface 1 EchoControl Mode: On
+Audio Input USBInterface 1 Gain: 5
+Audio Input USBInterface 1 Mode: On
+Audio Input USBInterface 1 Zone: 1
+Audio Input WebView 1 Mode: On
+Audio Microphones AGC: On
+Audio Microphones Mute Enabled: True
+Audio Microphones NoiseRemoval Mode: Enabled
+Audio Microphones PhantomPower: On
+Audio Microphones UsbPassthrough MuteButton: Active
+Audio Microphones VoiceActivityDetector Mode: Off
+Audio Output ARC 1 Delay DelayMs: 0
+Audio Output ARC 1 Delay Mode: RelativeToHDMI
+Audio Output ARC 1 Mode: Off
+Audio Output ARC 1 Ultrasound: Auto
+Audio Output Ethernet 1 Delay DelayMs: 0
+Audio Output Ethernet 1 Delay Mode: RelativeToHDMI
+Audio Output Ethernet 1 Gain: 0
+Audio Output Ethernet 1 Mode: On
+Audio Output HDMI 1 Delay DelayMs: 0
+Audio Output HDMI 1 Delay Mode: Fixed
+Audio Output HDMI 1 Gain: 0
+Audio Output HDMI 1 Mode: On
+Audio Output HDMI 1 Ultrasound: Auto
+Audio Output HDMI 2 Delay DelayMs: 0
+Audio Output HDMI 2 Delay Mode: Fixed
+Audio Output HDMI 2 Gain: 0
+Audio Output HDMI 2 Mode: On
+Audio Output HDMI 2 Ultrasound: Auto
+Audio Output HDMI 3 Delay DelayMs: 0
+Audio Output HDMI 3 Delay Mode: Fixed
+Audio Output HDMI 3 Gain: 0
+Audio Output HDMI 3 Mode: On
+Audio Output HDMI 3 Ultrasound: Auto
+Audio Output Line 1 Delay DelayMs: 0
+Audio Output Line 1 Delay Mode: RelativeToHDMI
+Audio Output Line 1 Gain: 0
+Audio Output Line 1 Mode: On
+Audio Output Line 1 OutputType: Loudspeaker
+Audio Output Line 1 Ultrasound: Auto
+Audio Output USBC 1 Mode: On
+Audio Output USBInterface 1 Delay DelayMs: 0
+Audio Output USBInterface 1 Delay Mode: RelativeToHDMI
+Audio Output USBInterface 1 Mode: On
+Audio Output USBInterface 1 Ultrasound: Off
+Audio SoundsAndAlerts DTMFFeedback: On
+Audio SoundsAndAlerts RingTone: "Sunrise"
+Audio SoundsAndAlerts RingVolume: 60
+Audio USB VolumeControl Capture Mode: Bypass
+Audio USB VolumeControl Capture Value: 0
+Audio USB VolumeControl Playback Mode: Bypass
+Audio USB VolumeControl Playback Value: 0
+Audio Ultrasound MaxVolume: 70
+BYOD USBCXapi: Enabled
+Bluetooth CustomBeacon Data: ""
+Bluetooth CustomBeacon Mode: Off
+Bluetooth LEAdvertisementOutputLevel: 0
+Bookings AdhocBooking BookAhead Enabled: False
+Bookings AdhocBooking BookingTimeout: 60
+Bookings AdhocBooking Enabled: False
+Bookings AllowDecline: All
+Bookings CheckIn AutoCheckInDuration: 8
+Bookings CheckIn Enabled: False
+Bookings CheckIn WindowDuration: 10
+Bookings DeclinableBookingType: AdhocOnly
+Bookings MaxDuration: 0
+Bookings ProtocolPriority: Auto
+CallHistory Mode: Off
+CallHistory Recents DisplayName: Hidden
+Cameras Camera 1 AssignedSerialNumber: ""
+Cameras Camera 1 Backlight DefaultMode: Off
+Cameras Camera 1 Brightness Algorithm: Auto
+Cameras Camera 1 Brightness DefaultLevel: 20
+Cameras Camera 1 Brightness Mode: Auto
+Cameras Camera 1 ConnectorType: Auto
+Cameras Camera 1 ExcludedArea: ""
+Cameras Camera 1 Flip: Auto
+Cameras Camera 1 Focus Mode: Auto
+Cameras Camera 1 Gamma Level: 0
+Cameras Camera 1 Gamma Mode: Auto
+Cameras Camera 1 IrCutFilter Mode: Day
+Cameras Camera 1 IrCutFilter Threshold: 14
+Cameras Camera 1 Mirror: Auto
+Cameras Camera 1 PtzAutoFraming: On
+Cameras Camera 1 StageArea: ""
+Cameras Camera 1 Standby Mode: Enabled
+Cameras Camera 1 TriggerArea: ""
+Cameras Camera 1 VideoFormat: 1920_1080_60
+Cameras Camera 1 Whitebalance Level: 1
+Cameras Camera 1 Whitebalance Mode: Auto
+Cameras Camera 2 AssignedSerialNumber: ""
+Cameras Camera 2 Backlight DefaultMode: Off
+Cameras Camera 2 Brightness Algorithm: Auto
+Cameras Camera 2 Brightness DefaultLevel: 20
+Cameras Camera 2 Brightness Mode: Auto
+Cameras Camera 2 ConnectorType: Auto
+Cameras Camera 2 ExcludedArea: ""
+Cameras Camera 2 Flip: Auto
+Cameras Camera 2 Focus Mode: Auto
+Cameras Camera 2 Gamma Level: 0
+Cameras Camera 2 Gamma Mode: Auto
+Cameras Camera 2 IrCutFilter Mode: Day
+Cameras Camera 2 IrCutFilter Threshold: 14
+Cameras Camera 2 Mirror: Auto
+Cameras Camera 2 PtzAutoFraming: On
+Cameras Camera 2 StageArea: ""
+Cameras Camera 2 Standby Mode: Enabled
+Cameras Camera 2 TriggerArea: ""
+Cameras Camera 2 VideoFormat: 1920_1080_60
+Cameras Camera 2 Whitebalance Level: 1
+Cameras Camera 2 Whitebalance Mode: Auto
+Cameras Camera 3 AssignedSerialNumber: ""
+Cameras Camera 3 Backlight DefaultMode: Off
+Cameras Camera 3 Brightness Algorithm: Auto
+Cameras Camera 3 Brightness DefaultLevel: 20
+Cameras Camera 3 Brightness Mode: Auto
+Cameras Camera 3 ConnectorType: Auto
+Cameras Camera 3 ExcludedArea: ""
+Cameras Camera 3 Flip: Auto
+Cameras Camera 3 Focus Mode: Auto
+Cameras Camera 3 Gamma Level: 0
+Cameras Camera 3 Gamma Mode: Auto
+Cameras Camera 3 IrCutFilter Mode: Day
+Cameras Camera 3 IrCutFilter Threshold: 14
+Cameras Camera 3 Mirror: Auto
+Cameras Camera 3 PtzAutoFraming: On
+Cameras Camera 3 StageArea: ""
+Cameras Camera 3 Standby Mode: Enabled
+Cameras Camera 3 TriggerArea: ""
+Cameras Camera 3 VideoFormat: 1920_1080_60
+Cameras Camera 3 Whitebalance Level: 1
+Cameras Camera 3 Whitebalance Mode: Auto
+Cameras Camera 4 AssignedSerialNumber: ""
+Cameras Camera 4 Backlight DefaultMode: Off
+Cameras Camera 4 Brightness Algorithm: Auto
+Cameras Camera 4 Brightness DefaultLevel: 20
+Cameras Camera 4 Brightness Mode: Auto
+Cameras Camera 4 ConnectorType: Auto
+Cameras Camera 4 ExcludedArea: ""
+Cameras Camera 4 Flip: Auto
+Cameras Camera 4 Focus Mode: Auto
+Cameras Camera 4 Gamma Level: 0
+Cameras Camera 4 Gamma Mode: Auto
+Cameras Camera 4 IrCutFilter Mode: Day
+Cameras Camera 4 IrCutFilter Threshold: 14
+Cameras Camera 4 Mirror: Auto
+Cameras Camera 4 PtzAutoFraming: On
+Cameras Camera 4 StageArea: ""
+Cameras Camera 4 Standby Mode: Enabled
+Cameras Camera 4 TriggerArea: ""
+Cameras Camera 4 VideoFormat: 1920_1080_60
+Cameras Camera 4 Whitebalance Level: 1
+Cameras Camera 4 Whitebalance Mode: Auto
+Cameras Camera 5 AssignedSerialNumber: ""
+Cameras Camera 5 Backlight DefaultMode: Off
+Cameras Camera 5 Brightness Algorithm: Auto
+Cameras Camera 5 Brightness DefaultLevel: 20
+Cameras Camera 5 Brightness Mode: Auto
+Cameras Camera 5 ConnectorType: Auto
+Cameras Camera 5 ExcludedArea: ""
+Cameras Camera 5 Flip: Auto
+Cameras Camera 5 Focus Mode: Auto
+Cameras Camera 5 Gamma Level: 0
+Cameras Camera 5 Gamma Mode: Auto
+Cameras Camera 5 IrCutFilter Mode: Day
+Cameras Camera 5 IrCutFilter Threshold: 14
+Cameras Camera 5 Mirror: Auto
+Cameras Camera 5 PtzAutoFraming: On
+Cameras Camera 5 StageArea: ""
+Cameras Camera 5 Standby Mode: Enabled
+Cameras Camera 5 TriggerArea: ""
+Cameras Camera 5 VideoFormat: 1920_1080_60
+Cameras Camera 5 Whitebalance Level: 1
+Cameras Camera 5 Whitebalance Mode: Auto
+Cameras Camera 6 AssignedSerialNumber: ""
+Cameras Camera 6 Backlight DefaultMode: Off
+Cameras Camera 6 Brightness Algorithm: Auto
+Cameras Camera 6 Brightness DefaultLevel: 20
+Cameras Camera 6 Brightness Mode: Auto
+Cameras Camera 6 ConnectorType: Auto
+Cameras Camera 6 ExcludedArea: ""
+Cameras Camera 6 Flip: Auto
+Cameras Camera 6 Focus Mode: Auto
+Cameras Camera 6 Gamma Level: 0
+Cameras Camera 6 Gamma Mode: Auto
+Cameras Camera 6 IrCutFilter Mode: Day
+Cameras Camera 6 IrCutFilter Threshold: 14
+Cameras Camera 6 Mirror: Auto
+Cameras Camera 6 PtzAutoFraming: On
+Cameras Camera 6 StageArea: ""
+Cameras Camera 6 Standby Mode: Enabled
+Cameras Camera 6 TriggerArea: ""
+Cameras Camera 6 VideoFormat: 1920_1080_60
+Cameras Camera 6 Whitebalance Level: 1
+Cameras Camera 6 Whitebalance Mode: Auto
+Cameras Camera 7 AssignedSerialNumber: ""
+Cameras Camera 7 Backlight DefaultMode: Off
+Cameras Camera 7 Brightness Algorithm: Auto
+Cameras Camera 7 Brightness DefaultLevel: 20
+Cameras Camera 7 Brightness Mode: Auto
+Cameras Camera 7 ConnectorType: Auto
+Cameras Camera 7 ExcludedArea: ""
+Cameras Camera 7 Flip: Auto
+Cameras Camera 7 Focus Mode: Auto
+Cameras Camera 7 Gamma Level: 0
+Cameras Camera 7 Gamma Mode: Auto
+Cameras Camera 7 IrCutFilter Mode: Day
+Cameras Camera 7 IrCutFilter Threshold: 14
+Cameras Camera 7 Mirror: Auto
+Cameras Camera 7 PtzAutoFraming: On
+Cameras Camera 7 StageArea: ""
+Cameras Camera 7 Standby Mode: Enabled
+Cameras Camera 7 TriggerArea: ""
+Cameras Camera 7 VideoFormat: 1920_1080_60
+Cameras Camera 7 Whitebalance Level: 1
+Cameras Camera 7 Whitebalance Mode: Auto
+Cameras Camera 8 AssignedSerialNumber: ""
+Cameras Camera 8 Backlight DefaultMode: Off
+Cameras Camera 8 Brightness Algorithm: Auto
+Cameras Camera 8 Brightness DefaultLevel: 20
+Cameras Camera 8 Brightness Mode: Auto
+Cameras Camera 8 ConnectorType: Auto
+Cameras Camera 8 ExcludedArea: ""
+Cameras Camera 8 Flip: Auto
+Cameras Camera 8 Focus Mode: Auto
+Cameras Camera 8 Gamma Level: 0
+Cameras Camera 8 Gamma Mode: Auto
+Cameras Camera 8 IrCutFilter Mode: Day
+Cameras Camera 8 IrCutFilter Threshold: 14
+Cameras Camera 8 Mirror: Auto
+Cameras Camera 8 PtzAutoFraming: On
+Cameras Camera 8 StageArea: ""
+Cameras Camera 8 Standby Mode: Enabled
+Cameras Camera 8 TriggerArea: ""
+Cameras Camera 8 VideoFormat: 1920_1080_60
+Cameras Camera 8 Whitebalance Level: 1
+Cameras Camera 8 Whitebalance Mode: Auto
+Cameras Camera 9 AssignedSerialNumber: ""
+Cameras Camera 9 Backlight DefaultMode: Off
+Cameras Camera 9 Brightness Algorithm: Auto
+Cameras Camera 9 Brightness DefaultLevel: 20
+Cameras Camera 9 Brightness Mode: Auto
+Cameras Camera 9 ConnectorType: Auto
+Cameras Camera 9 ExcludedArea: ""
+Cameras Camera 9 Flip: Auto
+Cameras Camera 9 Focus Mode: Auto
+Cameras Camera 9 Gamma Level: 0
+Cameras Camera 9 Gamma Mode: Auto
+Cameras Camera 9 IrCutFilter Mode: Day
+Cameras Camera 9 IrCutFilter Threshold: 14
+Cameras Camera 9 Mirror: Auto
+Cameras Camera 9 PtzAutoFraming: On
+Cameras Camera 9 StageArea: ""
+Cameras Camera 9 Standby Mode: Enabled
+Cameras Camera 9 TriggerArea: ""
+Cameras Camera 9 VideoFormat: 1920_1080_60
+Cameras Camera 9 Whitebalance Level: 1
+Cameras Camera 9 Whitebalance Mode: Auto
+Cameras Camera 10 AssignedSerialNumber: ""
+Cameras Camera 10 Backlight DefaultMode: Off
+Cameras Camera 10 Brightness Algorithm: Auto
+Cameras Camera 10 Brightness DefaultLevel: 20
+Cameras Camera 10 Brightness Mode: Auto
+Cameras Camera 10 ConnectorType: Auto
+Cameras Camera 10 ExcludedArea: ""
+Cameras Camera 10 Flip: Auto
+Cameras Camera 10 Focus Mode: Auto
+Cameras Camera 10 Gamma Level: 0
+Cameras Camera 10 Gamma Mode: Auto
+Cameras Camera 10 IrCutFilter Mode: Day
+Cameras Camera 10 IrCutFilter Threshold: 14
+Cameras Camera 10 Mirror: Auto
+Cameras Camera 10 PtzAutoFraming: On
+Cameras Camera 10 StageArea: ""
+Cameras Camera 10 Standby Mode: Enabled
+Cameras Camera 10 TriggerArea: ""
+Cameras Camera 10 VideoFormat: 1920_1080_60
+Cameras Camera 10 Whitebalance Level: 1
+Cameras Camera 10 Whitebalance Mode: Auto
+Cameras PowerLine Frequency: Auto
+Cameras PresenterTrack CameraPosition Pan: 0
+Cameras PresenterTrack CameraPosition Tilt: 0
+Cameras PresenterTrack CameraPosition Zoom: 0
+Cameras PresenterTrack Connector: 1
+Cameras PresenterTrack Enabled: False
+Cameras PresenterTrack PresenterDetectedStatus: Enabled
+Cameras PresenterTrack TriggerZone: ""
+Cameras SpeakerTrack Closeup: Auto
+Cameras SpeakerTrack ConnectorDetection CameraLeft: 1
+Cameras SpeakerTrack ConnectorDetection CameraRight: 2
+Cameras SpeakerTrack ConnectorDetection Mode: Auto
+Cameras SpeakerTrack DefaultBehavior: Auto
+Cameras SpeakerTrack Frames Mode: Off
+Cameras SpeakerTrack Frames RowConfiguration: SingleRow
+Cameras SpeakerTrack GroupAndSpeaker Mode: Auto
+Cameras SpeakerTrack HeadDetectorRange: Standard
+Cameras SpeakerTrack MeetingZone Area: ""
+Cameras SpeakerTrack MeetingZone Mode: Off
+Cameras SpeakerTrack Mode: Auto
+Cameras SpeakerTrack MultiCamera CalibrationMonitoring: Enabled
+Cameras SpeakerTrack TrackingMode: Auto
+Cameras SpeakerTrack Whiteboard Mode: Off
+Cameras SpeakerTrack ZoomRange MaxZoomFactor: Auto
+Conference ActiveControl Mode: Auto
+Conference AutoAnswer Delay: 0
+Conference AutoAnswer Mode: Off
+Conference AutoAnswer Mute: Off
+Conference CallProtocolIPStack: Dual
+Conference DefaultCall Protocol: Spark
+Conference DefaultCall Rate: 6000
+Conference DefaultCall Webex Rate: 0
+Conference Diagnostics DegradedQualityNotifications: On
+Conference Diagnostics StreamStatusOverlay: Off
+Conference DoNotDisturb DefaultTimeout: 60
+Conference EndToEndEncryption Identity PreferredDomain: ""
+Conference EndToEndEncryption Mode: On
+Conference FarEndControl Mode: Auto
+Conference HideNonVideo OnCall Mode: Inactive
+Conference IncomingMultisiteCall Mode: Allow
+Conference JoinLeaveNotifications: Auto
+Conference MaxReceiveCallRate: 6000
+Conference MaxTransmitCallRate: 6000
+Conference MicUnmuteOnDisconnect Mode: On
+Conference MultiStream Mode: Auto
+Conference PeopleFocus OnCall Mode: Auto
+Conference Presentation OnPlacedOnHold: NoAction
+Conference Presentation RelayQuality: Sharpness
+Conference Webex CallProtocolIPStack: PreferIpv4
+Experimental CapsetReduction: Auto
+Experimental Conference LayoutSystem: Default
+Experimental Conference OverlayOnEditMode: On
+Experimental Conference RateAdjustSimulcasts: Off
+Experimental Conference WaitForResolutionChange: 3000
+Experimental Profile RoomType: ""
+Experimental Spark Assistant FulfillmentURL: ""
+Experimental Spark Assistant GatewayURL: ""
+Experimental Spark Assistant URL: ""
+Experimental Swarm AllowShareFromCompanionDevice: Off
+Experimental SystemUnit RunStartupWizard: False
+Experimental SystemUnit SoftwareUpgrade RequireAuthentication: On
+Experimental SystemUnit StartupWizardState: Auto
+Experimental UserInterface Accessibility GrayScale: Off
+Experimental UserInterface Accessibility InvertedColors: Off
+Experimental UserInterface Accessibility Scale: Normal
+Experimental UserInterface InCall CsiLock: On
+Experimental UserInterface InCall InteractiveOverflowTab: Off
+Experimental UserInterface InCall LayoutPlaneAnimations: Off
+Experimental UserInterface InCall Style: Experimental
+Experimental Video Annotation: Off
+Experimental VoiceControl NoSpeechTimeoutSeconds: 5
+FacilityService Service 1 CallType: Video
+FacilityService Service 1 Name: "Live Support"
+FacilityService Service 1 Number: ""
+FacilityService Service 1 Type: Helpdesk
+FacilityService Service 2 CallType: Video
+FacilityService Service 2 Name: ""
+FacilityService Service 2 Number: ""
+FacilityService Service 2 Type: Helpdesk
+FacilityService Service 3 CallType: Video
+FacilityService Service 3 Name: ""
+FacilityService Service 3 Number: ""
+FacilityService Service 3 Type: Helpdesk
+FacilityService Service 4 CallType: Video
+FacilityService Service 4 Name: ""
+FacilityService Service 4 Number: ""
+FacilityService Service 4 Type: Helpdesk
+FacilityService Service 5 CallType: Video
+FacilityService Service 5 Name: ""
+FacilityService Service 5 Number: ""
+FacilityService Service 5 Type: Helpdesk
+Files EndSessionAction: None
+Files Services OneDrive TemporaryPersonalSignIn: Enabled
+Files Services Webex SaveToUser: Enabled
+Files Services Webex Spaces: Enabled
+HttpClient AllowHTTP: True
+HttpClient AllowInsecureHTTPS: False
+HttpClient Mode: On
+HttpClient UseHttpProxy: On
+HttpFeedback TlsVerify: On
+HttpFeedback UseHttpProxy: On
+Logging Debug Bluetooth: On
+Logging Debug Wifi: On
+Logging External Mode: Off
+Logging External Protocol: SyslogTLS
+Logging External Server Address: ""
+Logging External Server Port: 514
+Logging External TlsVerify: On
+Logging Internal Mode: On
+Logging Mode: On
+Macros AutoStart: On
+Macros Diagnostics JavascriptErrors: On
+Macros EvaluateTranspiled: False
+Macros Mode: On
+Macros QuickJSEngine: On
+Macros UnresponsiveTimeout: 5
+MicrosoftTeams CVI CrossTenant: Disabled
+MicrosoftTeams Diagnostics ShowUnsupportedConsoleNotification: True
+MicrosoftTeams Logging Level: Info
+MicrosoftTeams Logging Mode: On
+MicrosoftTeams Zoom CrossLaunch: Auto
+Network 1 DNS DNSSEC Mode: Off
+Network 1 DNS Domain Name: ""
+Network 1 DNS Server 1 Address: ""
+Network 1 DNS Server 2 Address: ""
+Network 1 DNS Server 3 Address: ""
+Network 1 FQDN: ""
+Network 1 Firewall Incoming H323: ""
+Network 1 Firewall Incoming Pairing: ""
+Network 1 Firewall Incoming SIP: ""
+Network 1 IEEE8021X AnonymousIdentity: ""
+Network 1 IEEE8021X Eap Md5: On
+Network 1 IEEE8021X Eap Peap: On
+Network 1 IEEE8021X Eap Tls: On
+Network 1 IEEE8021X Eap Ttls: On
+Network 1 IEEE8021X Identity: ""
+Network 1 IEEE8021X Mode: Off
+Network 1 IEEE8021X TlsVerify: Off
+Network 1 IEEE8021X UseClientCertificate: Off
+Network 1 IPStack: Dual
+Network 1 IPv4 Address: ""
+Network 1 IPv4 Assignment: DHCP
+Network 1 IPv4 Gateway: ""
+Network 1 IPv4 InterfaceIdentifier: Auto
+Network 1 IPv4 SubnetMask: ""
+Network 1 IPv6 Address: ""
+Network 1 IPv6 Assignment: Autoconf
+Network 1 IPv6 DHCPOptions: On
+Network 1 IPv6 Gateway: ""
+Network 1 IPv6 InterfaceIdentifier: MAC
+Network 1 MTU: 1500
+Network 1 QoS Diffserv Audio: 46
+Network 1 QoS Diffserv Data: 34
+Network 1 QoS Diffserv ICMPv6: 0
+Network 1 QoS Diffserv NTP: 0
+Network 1 QoS Diffserv Signalling: 24
+Network 1 QoS Diffserv Video: 34
+Network 1 QoS Mode: Diffserv
+Network 1 RemoteAccess Allow: ""
+Network 1 Speed: Auto
+Network 1 TrafficControl Mode: On
+Network 1 VLAN Voice Mode: Auto
+Network 1 VLAN Voice VlanId: 1
+NetworkServices CDP Mode: On
+NetworkServices CommonProxy: Disabled
+NetworkServices DiscoveryProtocol SystemName: Auto
+NetworkServices HTTP Mode: HTTPS
+NetworkServices HTTP Proxy Authentication Method: Auto
+NetworkServices HTTP Proxy LoginName: ""
+NetworkServices HTTP Proxy Mode: Off
+NetworkServices HTTP Proxy PACUrl: ""
+NetworkServices HTTP Proxy Url: ""
+NetworkServices HTTPS OCSP Mode: Off
+NetworkServices HTTPS OCSP URL: ""
+NetworkServices HTTPS Server MinimumTLSVersion: TLSv1.1
+NetworkServices HTTPS StrictTransportSecurity: Off
+NetworkServices HTTPS VerifyClientCertificate: Off
+NetworkServices LLDP Mode: Passive
+NetworkServices PTP Priority: 255
+NetworkServices SIP Mode: Off
+NetworkServices SMTP From: ""
+NetworkServices SMTP Mode: Off
+NetworkServices SMTP Port: 0
+NetworkServices SMTP Security: StartTls
+NetworkServices SMTP Server: ""
+NetworkServices SMTP Username: ""
+NetworkServices SNMP CommunityName: ""
+NetworkServices SNMP Mode: Off
+NetworkServices SNMP SysNameSource: Auto
+NetworkServices SNMP SystemContact: ""
+NetworkServices SNMP SystemLocation: ""
+NetworkServices SSH HostKeyAlgorithm: RSA
+NetworkServices SSH KeyExchangeAlgorithms AllowLegacy: On
+NetworkServices SSH Mode: On
+NetworkServices UPnP Mode: On
+NetworkServices UPnP Timeout: 600
+NetworkServices Websocket: FollowHTTPService
+NetworkServices WelcomeText: On
+NetworkServices Wifi Allowed: True
+NetworkServices Wifi Enabled: True
+NetworkServices Wifi Settings A_MPDU: On
+NetworkServices Wifi Settings FrequencyBand: Auto
+NetworkServices Wifi Settings TlsVerify: Auto
+NetworkServices XMLAPI Mode: On
+Peripherals InputDevice Mode: Off
+Peripherals Pairing CiscoTouchPanels EmcResilience: Off
+Peripherals Pairing CiscoTouchPanels HttpProxy: Auto
+Peripherals Pairing CiscoTouchPanels RemotePairing: On
+Peripherals Profile Cameras: Minimum1
+Peripherals Profile ControlSystems: NotSet
+Peripherals Profile Microphones Analog: NotSet
+Peripherals Profile Microphones Ethernet: NotSet
+Peripherals Profile Microphones USBInterface: NotSet
+Peripherals Profile TouchPanels: Auto
+Peripherals Security Certificates SyncToPeripherals Enabled: True
+Phonebook Server 1 ID: ""
+Phonebook Server 1 Type: Spark
+Phonebook Server 1 URL: ""
+Provisioning CUCM CallManagementRecords CallDiagnostics: Enabled
+Provisioning Mode: Webex
+Provisioning RoomType CameraLayout: PIP
+Provisioning TlsVerify: On
+Provisioning WebexEdge: Off
+Proximity AlternatePort Enabled: False
+Proximity Services CallControl: Disabled
+Proximity Services ContentShare FromClients: Enabled
+Proximity Services ContentShare ToClients: Disabled
+RTP Audio Ports Range Webex Start: 52050
+RTP Audio Ports Range Webex Stop: 52099
+RTP Ports Range Start: 52050
+RTP Ports Range Stop: 52099
+RTP Video Ports Range Start: 52200
+RTP Video Ports Range Stop: 52299
+RTP Video Ports Range Webex Start: 52200
+RTP Video Ports Range Webex Stop: 52299
+RemoteAccess Mode: On
+RemoteAccess ShowTapIndicator: True
+RoomAnalytics AmbientNoiseEstimation Interval: 10
+RoomAnalytics AmbientNoiseEstimation Mode: On
+RoomAnalytics PeopleCountOutOfCall: On
+RoomAnalytics PeoplePresence Input HeadDetector: On
+RoomAnalytics PeoplePresence Input Ultrasound: Off
+RoomAnalytics PeoplePresenceDetector: On
+RoomAnalytics ReverberationTime Interval: 1800
+RoomAnalytics ReverberationTime Mode: Off
+RoomAnalytics RoomInUse InCall: Enabled
+RoomAnalytics RoomInUse LocalUsage: Enabled
+RoomAnalytics T3AlarmDetection Mode: Off
+RoomAnalytics T3AlarmDetection Timeout: 10
+RoomCleanup AutoRun ContentType TemporaryAccounts: Daily
+RoomCleanup AutoRun ContentType WebData: Daily
+RoomCleanup AutoRun ContentType Whiteboards: Daily
+RoomCleanup AutoRun HourOfDay: 0
+RoomReset Control: On
+RoomScheduler BookingTimeout: 60
+RoomScheduler Enabled: False
+SIP ANAT: Off
+SIP Authentication UserName: ""
+SIP DefaultTransport: Auto
+SIP DisplayName: ""
+SIP Line: Private
+SIP ListenPort: On
+SIP Mailbox: ""
+SIP MinimumTLSVersion: TLSv1.2
+SIP PreferredIPSignaling: IPv4
+SIP Proxy 1 Address: ""
+SIP Proxy 2 Address: ""
+SIP Proxy 3 Address: ""
+SIP Proxy 4 Address: ""
+SIP TlsVerify: On
+SIP TransportSecurity CertificateVerificationMode: Auto
+SIP Type: Standard
+SIP URI: ""
+Security Audit Logging Mode: Internal
+Security Audit OnError Action: Ignore
+Security Audit Server Address: ""
+Security Audit Server Port: 514
+Security Audit Server PortAssignment: Auto
+Security CSR KeySize: 2048
+Security Enrollment KeySize: 2048
+Security Fips Mode: Off
+Security Session FailedLoginsLockoutTime: 60
+Security Session InactivityTimeout: 0
+Security Session MaxFailedLogins: 0
+Security Session MaxSessionsPerUser: 20
+Security Session MaxTotalSessions: 30
+Security Session ShowLastLogon: Off
+Security Xapi WebSocket ApiKey Allowed: False
+Sensors Ultrasound Mode: Auto
+SerialPort BaudRate: 115200
+SerialPort LoginRequired: On
+SerialPort Mode: On
+SerialPort Outbound Mode: Off
+SerialPort Outbound Port 1 BaudRate: 115200
+SerialPort Outbound Port 1 Description: ""
+SerialPort Outbound Port 1 Parity: None
+Standby BootAction: DefaultCameraPosition
+Standby BrightnessDelay: 30
+Standby Control: On
+Standby Delay: 10
+Standby Halfwake Mode: Manual
+Standby Halfwake Screensaver: Halfwake
+Standby Signage Audio: Off
+Standby Signage InteractionMode: NonInteractive
+Standby Signage Mode: Off
+Standby Signage RefreshInterval: 0
+Standby Signage Url: ""
+Standby StandbyAction: PrivacyPosition
+Standby WakeupAction: RestoreCameraPosition
+Standby WakeupAtMeetingStart: Auto
+Standby WakeupOnMotionDetection: Off
+Standby WakeupOnPairing: On
+SystemUnit BroadcastName: ""
+SystemUnit CrashReporting Advanced: On
+SystemUnit CrashReporting Mode: Off
+SystemUnit CrashReporting URL: ""
+SystemUnit CustomDeviceId: ""
+SystemUnit Extension MouseSupport: Enabled
+SystemUnit Hardware USBC 1 Mode: USB3
+SystemUnit Name: ""
+SystemUnit SoftwareUpgrade Provider: Cisco
+SystemUnit SoftwareUpgrade TruncateCop: True
+SystemUnit SoftwareUpgrade WebCache Mode: Off
+SystemUnit SoftwareUpgrade WebCache Url: ""
+ThousandEyes ConnectionString: ""
+Time DateFormat: DD_MM_YY
+Time OfficeHours Enabled: True
+Time OfficeHours OutsideOfficeHours Standby AutoWakeup: Disabled
+Time OfficeHours OutsideOfficeHours Standby Delay: 5
+Time OfficeHours WorkDay End: "19:00"
+Time OfficeHours WorkDay Start: "07:00"
+Time OfficeHours WorkWeek Friday: True
+Time OfficeHours WorkWeek Monday: True
+Time OfficeHours WorkWeek Saturday: False
+Time OfficeHours WorkWeek Sunday: False
+Time OfficeHours WorkWeek Thursday: True
+Time OfficeHours WorkWeek Tuesday: True
+Time OfficeHours WorkWeek Wednesday: True
+Time TimeFormat: 12H
+Time Zone: America/Edmonton
+UserInterface Accessibility IncomingCallNotification: Default
+UserInterface Accessibility ScreenReader Default Mode: Off
+UserInterface Accessibility ScreenReader Gesture: On
+UserInterface Accessibility ScreenReader Speed: 100
+UserInterface Assistant Mode: On
+UserInterface Assistant ProactiveMeetingJoin: True
+UserInterface Bookings AdhocBooking DefaultTitle: "Ad hoc meeting"
+UserInterface Bookings AdhocBooking TimeSlotSize: 30
+UserInterface Bookings AdhocBooking UseDefaultTitle: False
+UserInterface Bookings Visibility AllDayMeetings: Auto
+UserInterface Bookings Visibility EarlyJoin: Hidden
+UserInterface Bookings Visibility JoinedParticipants Avatars: Auto
+UserInterface Bookings Visibility MeetingReminder: ControllerOnly
+UserInterface Bookings Visibility NonJoinableMeetings: Auto
+UserInterface Bookings Visibility Organizer: Auto
+UserInterface Bookings Visibility Personal FullDayCalendar: On
+UserInterface Bookings Visibility Personal NonJoinableMeetings: Hidden
+UserInterface Bookings Visibility TentativeMeetings: Auto
+UserInterface Bookings Visibility Title: Auto
+UserInterface Branding AwakeBranding Colors: Auto
+UserInterface CameraControl Presets Mode: Auto
+UserInterface ContactInfo Type: Auto
+UserInterface CustomMessage: ""
+UserInterface CustomWallpaperOverlay: Off
+UserInterface DecemberThemeBeta: Off
+UserInterface Diagnostics Notifications: Auto
+UserInterface Features Calendar Start: Auto
+UserInterface Features Call AudioMute: Auto
+UserInterface Features Call CameraControls: Auto
+UserInterface Features Call End: Auto
+UserInterface Features Call JoinGoogleMeet: Auto
+UserInterface Features Call JoinMicrosoftTeamsCVI: Hidden
+UserInterface Features Call JoinMicrosoftTeamsDirectGuestJoin: Hidden
+UserInterface Features Call JoinWebex: Auto
+UserInterface Features Call JoinZoom: Auto
+UserInterface Features Call Keypad: Auto
+UserInterface Features Call LayoutControls: Auto
+UserInterface Features Call MidCallControls: Auto
+UserInterface Features Call MusicMode: Hidden
+UserInterface Features Call ParticipantList: Auto
+UserInterface Features Call SelfviewControls: Auto
+UserInterface Features Call Start: Auto
+UserInterface Features Call VideoMute: Auto
+UserInterface Features Call Webcam: Hidden
+UserInterface Features Files Start: Auto
+UserInterface Features HideAll: False
+UserInterface Features Share MTRAutoSelectSource: On
+UserInterface Features Share MTRShareExperience: RoomOS
+UserInterface Features Share Start: Auto
+UserInterface Features Whiteboard Start: Auto
+UserInterface Help Tips: Hidden
+UserInterface HomeScreen Dashboard: Off
+UserInterface HomeScreen Peripherals WebApp AllowInsecureHttps: False
+UserInterface HomeScreen Peripherals WebApp URL: ""
+UserInterface InstantMeeting Invite: Promote
+UserInterface KeyTones Mode: On
+UserInterface Language: English
+UserInterface LedControl Mode: Auto
+UserInterface LedControl OutsideOfficeHours: On
+UserInterface LiveAnnotation AvailabilityForPresenter: Always
+UserInterface LiveAnnotation Enabled: True
+UserInterface LiveAnnotation EnabledOutOfCall: True
+UserInterface MeetingJoin CVITenants: ""
+UserInterface MuteWarning: Enabled
+UserInterface NameAndSiteLabels Mode: Auto
+UserInterface OSD EncryptionIndicator: Auto
+UserInterface OSD HalfwakeMessage: ""
+UserInterface OSD Mode: Auto
+UserInterface OSD Output: Auto
+UserInterface Phonebook DefaultSearchFilter: All
+UserInterface Phonebook Mode: ReadWrite
+UserInterface Proximity Notifications: Auto
+UserInterface RoomScheduler AmbientTemperature Show: Auto
+UserInterface RoomScheduler DevicePersonalization QRCodePairing: On
+UserInterface RoomScheduler Mode: Auto
+UserInterface RoomScheduler OverlayOpacity: 50
+UserInterface RoomScheduler PeopleCount Current: Auto
+UserInterface RoomScheduler State Available Color: Green
+UserInterface RoomScheduler State Busy Color: Red
+UserInterface RoomScheduler State Pending Color: Yellow
+UserInterface RoomStatusMenu Visibility: Auto
+UserInterface ScreenLock Policy: Optional
+UserInterface ScreenLock Workspace Allowed: False
+UserInterface Security Mode: Normal
+UserInterface SettingsMenu Mode: Locked
+UserInterface SettingsMenu Visibility: Auto
+UserInterface SoundEffects Mode: On
+UserInterface Theme Name: Auto
+UserInterface Wallpaper: Custom
+UserInterface WallpaperFillMode: Crop
+UserInterface Whiteboard ActivityIndicators: On
+UserInterface Whiteboard DefaultTheme: Light
+UserInterface Whiteboard Deletion: Auto
+UserInterface Whiteboard ShareInCall: Auto
+UserManagement LDAP Admin Filter: ""
+UserManagement LDAP Admin Group: ""
+UserManagement LDAP Attribute: ""
+UserManagement LDAP BaseDN: ""
+UserManagement LDAP BindDN: ""
+UserManagement LDAP Encryption: LDAPS
+UserManagement LDAP MemberAttribute: ""
+UserManagement LDAP MinimumTLSVersion: TLSv1.2
+UserManagement LDAP Mode: Off
+UserManagement LDAP Server Address: ""
+UserManagement LDAP Server Port: 0
+UserManagement LDAP VerifyServerCertificate: On
+UserManagement PasswordPolicy Complexity MinimumDigits: 0
+UserManagement PasswordPolicy Complexity MinimumLength: 8
+UserManagement PasswordPolicy Complexity MinimumLowercase: 0
+UserManagement PasswordPolicy Complexity MinimumSpecial: 0
+UserManagement PasswordPolicy Complexity MinimumUppercase: 0
+UserManagement PasswordPolicy MaxLifetime: 0
+UserManagement PasswordPolicy ReuseLimit: 12
+Video ActiveSpeaker DefaultPIPPosition: Current
+Video DefaultLayoutFamily Local: Auto
+Video DefaultLayoutFamily LocalContent: Auto
+Video DefaultLayoutFamily Remote: Auto
+Video DefaultMainSource: 1
+Video Input AirPlay Beacon: Auto
+Video Input AirPlay DiscoveryInstructions NetworkName: ""
+Video Input AirPlay DiscoveryInstructions ShowNetworkInfo: False
+Video Input AirPlay Mode: Off
+Video Input AirPlay PresentationSelection: AutoShare
+Video Input AirPlay SecurityMode: PinAlways
+Video Input CameraConfigMode: Manual
+Video Input Connector 1 CEC Mode: On
+Video Input Connector 1 CameraControl CameraId: 1
+Video Input Connector 1 CameraControl Mode: On
+Video Input Connector 1 HDCP Mode: Off
+Video Input Connector 1 InputSourceType: camera
+Video Input Connector 1 MaxResolution: 3840_2160_30
+Video Input Connector 1 Name: "Camera"
+Video Input Connector 1 OptimalDefinition Profile: Medium
+Video Input Connector 1 OptimalDefinition Threshold60fps: 1920_1080
+Video Input Connector 1 PreferredResolution: 1920_1080_60
+Video Input Connector 1 PresentationSelection: Manual
+Video Input Connector 1 Quality: Motion
+Video Input Connector 1 RGBQuantizationRange: Auto
+Video Input Connector 1 Visibility: Never
+Video Input Connector 2 CEC Mode: On
+Video Input Connector 2 CameraControl CameraId: 2
+Video Input Connector 2 CameraControl Mode: On
+Video Input Connector 2 HDCP Mode: Off
+Video Input Connector 2 InputSourceType: PC
+Video Input Connector 2 MaxResolution: 3840_2160_30
+Video Input Connector 2 Name: "PC 1 (HDMI)"
+Video Input Connector 2 OptimalDefinition Profile: Medium
+Video Input Connector 2 OptimalDefinition Threshold60fps: 1920_1080
+Video Input Connector 2 PreferredResolution: 1920_1080_60
+Video Input Connector 2 PresentationSelection: OnConnect
+Video Input Connector 2 Quality: Auto
+Video Input Connector 2 RGBQuantizationRange: Auto
+Video Input Connector 2 Visibility: IfSignal
+Video Input Connector 3 CEC Mode: On
+Video Input Connector 3 CameraControl CameraId: 3
+Video Input Connector 3 CameraControl Mode: On
+Video Input Connector 3 HDCP Mode: Off
+Video Input Connector 3 InputSourceType: PC
+Video Input Connector 3 MaxResolution: 3840_2160_30
+Video Input Connector 3 Name: "PC 2 (HDMI)"
+Video Input Connector 3 OptimalDefinition Profile: Medium
+Video Input Connector 3 OptimalDefinition Threshold60fps: 1920_1080
+Video Input Connector 3 PreferredResolution: 1920_1080_60
+Video Input Connector 3 PresentationSelection: OnConnect
+Video Input Connector 3 Quality: Auto
+Video Input Connector 3 RGBQuantizationRange: Auto
+Video Input Connector 3 Visibility: IfSignal
+Video Input Connector 4 CEC Mode: On
+Video Input Connector 4 CameraControl CameraId: 4
+Video Input Connector 4 CameraControl Mode: Off
+Video Input Connector 4 HDCP Mode: Off
+Video Input Connector 4 InputSourceType: PC
+Video Input Connector 4 MaxResolution: 3840_2160_30
+Video Input Connector 4 Name: "PC (USB-C)"
+Video Input Connector 4 OptimalDefinition Profile: Medium
+Video Input Connector 4 OptimalDefinition Threshold60fps: 1920_1080
+Video Input Connector 4 PreferredResolution: 3840_2160_30
+Video Input Connector 4 PresentationSelection: OnConnect
+Video Input Connector 4 Quality: Auto
+Video Input Connector 4 RGBQuantizationRange: Auto
+Video Input Connector 4 Visibility: IfSignal
+Video Input Connector 5 AssignedSerialNumber: ""
+Video Input Connector 5 CameraControl CameraId: 5
+Video Input Connector 5 CameraControl Mode: Off
+Video Input Connector 5 InputSourceType: camera
+Video Input Connector 5 Name: ""
+Video Input Connector 5 OptimalDefinition Profile: Medium
+Video Input Connector 5 OptimalDefinition Threshold60fps: 1920_1080
+Video Input Connector 5 PresentationSelection: OnConnect
+Video Input Connector 5 Quality: Auto
+Video Input Connector 5 Transform: None
+Video Input Connector 5 Visibility: IfSignal
+Video Input Connector 6 AssignedSerialNumber: ""
+Video Input Connector 6 CameraControl CameraId: 6
+Video Input Connector 6 CameraControl Mode: Off
+Video Input Connector 6 InputSourceType: camera
+Video Input Connector 6 Name: ""
+Video Input Connector 6 OptimalDefinition Profile: Medium
+Video Input Connector 6 OptimalDefinition Threshold60fps: 1920_1080
+Video Input Connector 6 PresentationSelection: Manual
+Video Input Connector 6 Quality: Motion
+Video Input Connector 6 Transform: None
+Video Input Connector 6 Visibility: IfSignal
+Video Input Connector 7 CameraControl CameraId: 7
+Video Input Connector 7 CameraControl Mode: On
+Video Input Connector 7 InputSourceType: camera
+Video Input Connector 7 Name: "Ethernet 1"
+Video Input Connector 7 OptimalDefinition Profile: Medium
+Video Input Connector 7 OptimalDefinition Threshold60fps: 1920_1080
+Video Input Connector 7 PresentationSelection: Manual
+Video Input Connector 7 Quality: Motion
+Video Input Connector 7 Visibility: Never
+Video Input Connector 8 CameraControl CameraId: 8
+Video Input Connector 8 CameraControl Mode: On
+Video Input Connector 8 InputSourceType: camera
+Video Input Connector 8 Name: "Ethernet 2"
+Video Input Connector 8 OptimalDefinition Profile: Medium
+Video Input Connector 8 OptimalDefinition Threshold60fps: 1920_1080
+Video Input Connector 8 PresentationSelection: Manual
+Video Input Connector 8 Quality: Motion
+Video Input Connector 8 Visibility: Never
+Video Input Connector 9 CameraControl CameraId: 9
+Video Input Connector 9 CameraControl Mode: On
+Video Input Connector 9 InputSourceType: camera
+Video Input Connector 9 Name: "Ethernet 3"
+Video Input Connector 9 OptimalDefinition Profile: Medium
+Video Input Connector 9 OptimalDefinition Threshold60fps: 1920_1080
+Video Input Connector 9 PresentationSelection: Manual
+Video Input Connector 9 Quality: Motion
+Video Input Connector 9 Visibility: Never
+Video Input Miracast MaxBitrate: 15000
+Video Input Miracast Mode: Off
+Video Input Miracast Pin Length: 4
+Video Input Miracast PresentationSelection: AutoShare
+Video Input Miracast Quality: Auto
+Video Input Miracast Transport: Direct
+Video Monitors: Auto
+Video Output Connector 1 CEC Mode: On
+Video Output Connector 1 ContentType: Default
+Video Output Connector 1 HDCPForce1_4: On
+Video Output Connector 1 HDCPPolicy: On
+Video Output Connector 1 Location HorizontalOffset: "0"
+Video Output Connector 1 Location VerticalOffset: "0"
+Video Output Connector 1 MonitorRole: Auto
+Video Output Connector 1 RGBQuantizationRange: Full
+Video Output Connector 1 Resolution: Auto
+Video Output Connector 2 CEC Mode: On
+Video Output Connector 2 ContentType: Default
+Video Output Connector 2 HDCPForce1_4: On
+Video Output Connector 2 HDCPPolicy: Off
+Video Output Connector 2 Location HorizontalOffset: "1"
+Video Output Connector 2 Location VerticalOffset: "0"
+Video Output Connector 2 MonitorRole: Auto
+Video Output Connector 2 RGBQuantizationRange: Full
+Video Output Connector 2 Resolution: Auto
+Video Output Connector 3 CEC Mode: On
+Video Output Connector 3 ContentType: Default
+Video Output Connector 3 HDCPForce1_4: On
+Video Output Connector 3 HDCPPolicy: On
+Video Output Connector 3 Location HorizontalOffset: "1"
+Video Output Connector 3 Location VerticalOffset: "0"
+Video Output Connector 3 MonitorRole: Auto
+Video Output Connector 3 RGBQuantizationRange: Full
+Video Output Connector 3 Resolution: Auto
+Video Output MirroringType: Multiscreen
+Video Output TouchInput ActivePenSupport: True
+Video Output TouchInput Mode: Auto
+Video Output Webcam USBMode: OnStreaming
+Video Presentation DefaultPIPPosition: Current
+Video Presentation DefaultSource: 2
+Video Presentation Priority: Equal
+Video Selfview Default FullscreenMode: Current
+Video Selfview Default Mode: Auto
+Video Selfview Default OnMonitorRole: Current
+Video Selfview Default PIPPosition: Current
+Video Selfview OnCall Duration: 5
+Video Selfview OnCall Mode: Off
+VoiceControl Wakeword Mode: On
+WebEngine Certificates RevocationChecks NetworkAccess: Allow
+WebEngine Features AllowDeviceCertificate: False
+WebEngine Features CanvasOopRasterization: Off
+WebEngine Features ColorSchemeSupport: Disabled
+WebEngine Features GpuRasterization: Off
+WebEngine Features LocalWebAppManagement: Allowed
+WebEngine Features Peripherals AudioOutput: Off
+WebEngine Features Peripherals WebGL: Off
+WebEngine Features WebGL: Off
+WebEngine Features Xapi Peripherals AllowedHosts Hosts: ""
+WebEngine FpsCounter: Off
+WebEngine MinimumTLSVersion: TLSv1.1
+WebEngine Mode: On
+WebEngine MultiscreenBehavior: Mirror
+WebEngine RemoteDebugging: Off
+WebEngine UseHttpProxy: On
+WebRTC EndCallTimeout: 2
+WebRTC Provider MicrosoftTeams CompatibilityMode: Off
+WebRTC Provider MicrosoftTeams DeviceIdentifier: ""
+Webex CSATSurveyEnabled: On
+Webex CloudProximity GuestShare: Auto
+Webex CloudProximity ManualPairing: Enabled
+Webex CloudUpgrades PreferredPackageProtocol: HTTPS
+Webex Meetings AIAssistantAutoSummarize Available: On
+Webex Meetings HttpProxyForMedia Mode: Off
+Webex Meetings MeetingChatNotifications Mode: Preview
+Webex Meetings MeetingChatPreview: True
+Webex Privacy AllowUsageDataLogging: False
+Webex Proximity Mode: On
+Webex UpgradeChannel: "Stable"
+Zoom DefaultDomain: "zoomcrc.com"
+Zoom DialStringOptions: ""
+Zoom EnhancedCallControls: Enabled
