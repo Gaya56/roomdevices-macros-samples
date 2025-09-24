@@ -71,6 +71,21 @@ After comprehensive analysis of official documentation and repository examples, 
    - ❌ Path doesn't exist on device (confirmed)
    - ❌ Real-time audio level monitoring not supported via xAPI
 
+### Option summary:
+Audio Detection Approach Analysis
+
+# Option 1: MediaChannels.Call Audio Statistics ✅
+MediaChannels.Call provides real-time statistics for active call media streams, including Direction ('Incoming'/'Outgoing') and Type ('Audio'/'Video') properties as demonstrated in the Smart Dual Screen presentation script. The Netstat properties contain live packet and byte counters that indicate active data flow, making it ideal for detecting when remote participants are transmitting audio. This approach is proven in multiple repository examples and follows Cisco's recommended pattern for monitoring call media activity via the xAPI Status.MediaChannels.Call path.
+
+# Option 2: Audio Input Stream Discovery Status
+Audio.Input.Ethernet.DiscoveredStream theoretically provides status information about discovered audio streams on Ethernet inputs, potentially showing "Active" status when remote audio is being received. However, this path lacks repository examples and may be hardware-specific to certain device models with advanced audio routing capabilities. The DiscoveredStream functionality is not well-documented in standard xAPI references and may not relate to call audio streams but rather to physical audio input discovery.
+
+# Option 3: Audio Input Connectors Activity
+Audio.Input.Connectors provides connector-level information about physical audio input connections, potentially including StreamName properties that populate when active streams are present. This approach monitors hardware-level audio input activity rather than call-specific audio streams, which may not accurately reflect remote participant audio during Teams calls. The Connectors path is primarily designed for audio routing configuration rather than real-time activity monitoring, making it less suitable for our use case.
+
+# Option 4: Direct MediaChannels Audio Properties
+This approach examines specific Audio properties within MediaChannels.Call channels, looking for Bitrate values or Status indicators that show active incoming audio streams. While similar to Option 1, it focuses on audio-specific properties rather than network statistics, potentially providing more direct audio activity indicators. However, the availability of properties like Audio.Bitrate or Audio.Status may vary by device model and RoomOS version, making it less universally reliable than the Netstat approach.
+
 ## Implementation Plan
 
 Replace the failing `hasIncomingSounds()` function with MediaChannels.Call approach following the Smart Dual Screen presentation pattern:
@@ -151,6 +166,7 @@ async function hasIncomingSounds() {
 ```
 
 ### Option 2: Audio Input Stream Discovery Status
+
 ```javascript
 async function hasIncomingSounds() {
     try {
