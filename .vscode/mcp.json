@@ -5,7 +5,7 @@
             "args": [
                 "-y",
                 "@modelcontextprotocol/server-filesystem@2025.8.21",
-                "/workspaces/roomdevices-macros-samples/ShutDownTimer"
+                "/workspaces/roomdevices-macros-samples/"
             ],
             "type": "stdio"
         },
@@ -34,7 +34,7 @@
                 "stdio"
             ],
             "env": {
-                "BRAVE_API_KEY": "BSAsnySCtYJPtVM2HPuWd-wf1Dj69xd"
+                "BRAVE_API_KEY": "BSAvAM2HL9HLsahYRTuCp8g8PANWdb"
             },
             "type": "stdio"
         }
