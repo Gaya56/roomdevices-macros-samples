@@ -1,0 +1,28 @@
+<Extensions>
+  <Version>1.5</Version>
+  <Panel>
+    <Order>5</Order>
+    <PanelId>panel_cancel_timer</PanelId>
+    <Origin>local</Origin>
+    <Location>CallControls</Location>
+    <Type>Button</Type>
+    <Icon>Cancel</Icon>
+    <Color>#FF0000</Color>
+    <Name>Cancel Timer</Name>
+    <ActivityType>Custom</ActivityType>
+    <Description>Manually cancel the automatic shutdown timer for Teams calls.</Description>
+    <Page>
+      <Name>Cancel Timer</Name>
+      <Row>
+        <Name>Cancel the shutdown timer</Name>
+        <Widget>
+          <WidgetId>cancel_timer</WidgetId>
+          <Type>Button</Type>
+          <Options>size=4</Options>
+          <Name>Cancel Shutdown Timer</Name>
+        </Widget>
+      </Row>
+      <Options/>
+    </Page>
+  </Panel>
+</Extensions>
