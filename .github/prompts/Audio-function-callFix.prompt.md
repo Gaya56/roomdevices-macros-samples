@@ -20,16 +20,21 @@ Note: You can only edit the ShutDownTimer.js file in the `/workspaces/roomdevice
 
 ## **TASK:**
 
-Replace the broken Audio.Input.Level path in the hasIncomingSounds() function with xapi.Status.RoomAnalytics.Sound.Level.A for remote-audio detection when occupancy = 0. Use Sound.Level.A (optimized for human voice detection) over AmbientNoise.Level.A to detect remote Teams participants speaking through speakers in empty rooms.
+Replace the broken Audio.Input.Level path in the hasIncomingSounds() function with RoomAnalytics Sound Level A for remote-audio detection when occupancy = 0. Use Sound.Level.A (optimized for human voice detection) over AmbientNoise.Level.A to detect remote Teams participants speaking through speakers in empty rooms.
+
+**Universal xAPI Path Format (validated from working examples):**
+- For `.get()` methods: Use SPACES → `'RoomAnalytics Sound Level A'` (verified: `/workspaces/roomdevices-macros-samples/Room Metrics/room-metrics.js` line 286)
+- For `.on()` methods: Use DOT notation → `RoomAnalytics.Sound.Level.A` (verified: `/workspaces/roomdevices-macros-samples/Unbook Empty Room/UnbookEmptyRoom.js` line 427)
+- Current issue: ShutDownTimer.js line 113 uses dots in .get() string (non-standard)
 
 ## **DESIRED FLOW:**
 
 1. Teams call begins
 2. Monitor for occupancy via RoomAnalytics.PeoplePresence
 3. ONLY when occupancy = 0 (no people detected)
-4. THEN trigger `xapi.Status.RoomAnalytics.Sound.Level.A` monitoring
-5. If microphone detects audio activity, cancel shutdown timer
-6. If no audio activity, proceed with 5-minute countd
+4. THEN trigger `RoomAnalytics Sound Level A` monitoring
+5. If Sound.Level.A indicates audio activity, cancel shutdown timer
+6. If no audio activity, proceed with 5-minute countdown
 Current broken code:
 
 ```jsx
@@ -37,12 +42,20 @@ const audioLevel = await xapi.status.get('Audio.Input.Level');
 return audioLevel > AUDIO_THRESHOLD;
 ```
 
-Corrected code for ShutDownTimer.js:
+Corrected code for ShutDownTimer.js (uses universal SPACES format with Number casting):
 
 ```jsx
 const audioLevel = await xapi.status.get('RoomAnalytics Sound Level A');
-return audioLevel > AUDIO_THRESHOLD;
+return Number(audioLevel) > AUDIO_THRESHOLD;
 ```
+
+**Additional fixes needed in ShutDownTimer.js:**
+- Line 102: Change `'RoomAnalytics.PeoplePresence'` to `'RoomAnalytics PeoplePresence'` 
+- Line 113: Change `'RoomAnalytics.PeoplePresence'` to `'RoomAnalytics PeoplePresence'`
+
+**Reference examples:**
+- Working .get() format: `/workspaces/roomdevices-macros-samples/Room Metrics/room-metrics.js` lines 286, 167
+- Working .on() format: `/workspaces/roomdevices-macros-samples/Unbook Empty Room/UnbookEmptyRoom.js` line 427
 
 ## **ESSENTIAL URLS FOR AUDIO FIX:**
 
