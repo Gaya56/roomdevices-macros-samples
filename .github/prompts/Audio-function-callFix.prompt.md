@@ -20,21 +20,27 @@ Note: You can only edit the ShutDownTimer.js file in the `/workspaces/roomdevice
 
 ## **TASK:**
 
-Replace the broken Audio.Input.Level path in the hasIncomingSounds() function with Audio.Input.Microphone[1] status path.
+Replace the broken Audio.Input.Level path in the hasIncomingSounds() function with xapi.Status.RoomAnalytics.Sound.Level.A for remote-audio detection when occupancy = 0. Use Sound.Level.A (optimized for human voice detection) over AmbientNoise.Level.A to detect remote Teams participants speaking through speakers in empty rooms.
 
 ## **DESIRED FLOW:**
 
 1. Teams call begins
 2. Monitor for occupancy via RoomAnalytics.PeoplePresence
 3. ONLY when occupancy = 0 (no people detected)
-4. THEN trigger `Audio.Input.Microphone[1]` monitoring
+4. THEN trigger `xapi.Status.RoomAnalytics.Sound.Level.A` monitoring
 5. If microphone detects audio activity, cancel shutdown timer
-6. If no audio activity, proceed with 5-minute countdown
-
+6. If no audio activity, proceed with 5-minute countd
 Current broken code:
 
 ```jsx
 const audioLevel = await xapi.status.get('Audio.Input.Level');
+return audioLevel > AUDIO_THRESHOLD;
+```
+
+Corrected code for ShutDownTimer.js:
+
+```jsx
+const audioLevel = await xapi.status.get('RoomAnalytics Sound Level A');
 return audioLevel > AUDIO_THRESHOLD;
 ```
 
